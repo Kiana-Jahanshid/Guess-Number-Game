@@ -2,7 +2,7 @@
 ### Guess the number which computer has chosen ! 💻
 
 
-> + In this game you should guess a number between 0 and 50 , and enter it in the white box .
+> + In this game you should guess a number between 1 and 50 , and enter it in the white box .
 > + Then press "Guess" button , to find out whether your guess was correct or not . ✔ ❌
 
 > ## ![This is an image](https://github.com/kiana-jahanshid/Guess-Number-Game/blob/main/1.png)
