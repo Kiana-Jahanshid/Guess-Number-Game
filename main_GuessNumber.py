@@ -16,7 +16,7 @@ class Guess_Number(QMainWindow):
         self.resultbtn = self.ui.resultbtn
         self.user_num = 0
         self.counter = 0 
-        self.computer_num = random.randint(1 , 30)
+        self.computer_num = random.randint(1 , 50)
         self.guessbtn.clicked.connect(self.play)
         
     def play(self):
